@@ -1,2 +1,2 @@
 # Presidente_Agenda
-Uma API que requisita informações da agenda do presidente com base no dia escolhido.
+Este código Python é utilizado para automatizar a extração de compromissos da agenda oficial do Presidente da República do Brasil para uma data específica, fornecida pelo usuário. Ele permite que qualquer pessoa obtenha, de forma fácil e rápida, informações como o título, horário e local dos compromissos do presidente em um determinado dia, e salva esses dados em um arquivo JSON, facilitando o acesso e o processamento dessas informações para análises ou outros usos.
