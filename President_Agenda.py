@@ -9,8 +9,7 @@ def convert_date(date_str):
     try:
         return datetime.strptime(date_str, '%d/%m/%Y')
     except ValueError:
-        print("Formato de data inválido. Use o formato DD/MM/AAAA.")
-        exit(1)
+        raise ValueError("Formato de data inválido. Use o formato DD/MM/AAAA.")
 
 
 parser = argparse.ArgumentParser(description="Extrair compromissos das datas específicas.")
@@ -22,8 +21,7 @@ start_date = convert_date(args.start_date)
 end_date = convert_date(args.end_date)
 
 if start_date > end_date:
-    print("A data de início não pode ser posterior à data de fim.")
-    exit(1)
+    raise ValueError("A data de início não pode ser posterior à data de fim.")
 
 commitments_list = []
 
