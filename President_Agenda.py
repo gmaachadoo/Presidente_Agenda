@@ -44,6 +44,7 @@ while current_date <= end_date:
         
         
         commitments_list.append({
+            'dia': data,
             'titulo': title,
             'horario': time,
             'local': location
