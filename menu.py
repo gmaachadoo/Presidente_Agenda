@@ -12,7 +12,7 @@ file_path = os.path.join(diretorio, nome_arquivo)
 with open(file_path, 'r', encoding='utf-8') as arquivo:
     dados = json.load(arquivo)
 
-menu = Menu()
+menu = Menu(dados)
 menu.escolha_menu()
 
 
