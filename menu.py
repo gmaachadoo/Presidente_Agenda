@@ -4,7 +4,7 @@ import os
 
 
 # Construir o caminho usando os.path.join
-diretorio = r'C:\Users\gugui\OneDrive\Área de Trabalho\Programação\agenda2'
+diretorio = r'C:/Users/gugui/Presidente_Agenda/'
 nome_arquivo = 'meu_arquivo_v1.json'
 
 file_path = os.path.join(diretorio, nome_arquivo)

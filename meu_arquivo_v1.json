@@ -1,44 +1,20 @@
 [
     {
-        "dia": "2024-08-25",
-        "titulo": "Partida para Brasília",
-        "horario": "12h00",
-        "local": "Aeroporto de Congonhas – São Paulo"
-    },
-    {
-        "dia": "2024-08-25",
-        "titulo": "Chegada a Brasília",
-        "horario": "13h20",
-        "local": "Base Aérea de Brasília"
-    },
-    {
-        "dia": "2024-08-25",
-        "titulo": "Visita ao Centro Nacional de Prevenção e Combate aos Incêndios Florestais – Prevfogo",
-        "horario": "13h40",
-        "local": "Edifício-sede do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) – Brasília-DF"
-    },
-    {
-        "dia": "2024-08-26",
-        "titulo": "Reunião extraordinária do Conselho Nacional de Política Energética – CNPE",
-        "horario": "09h00",
-        "local": "Ministério de Minas Energia"
-    },
-    {
-        "dia": "2024-08-26",
+        "dia": "2024-09-02",
         "titulo": "Reunião",
-        "horario": "15h00",
+        "horario": "09h00",
         "local": "Palácio do Planalto"
     },
     {
-        "dia": "2024-08-26",
-        "titulo": "Encontro com atletas dos Jogos Olímpicos de Paris 2024",
-        "horario": "16h00",
+        "dia": "2024-09-02",
+        "titulo": "Ministra do Meio Ambiente e Mudança do Clima, Marina Silva",
+        "horario": "11h00",
         "local": "Palácio do Planalto"
     },
     {
-        "dia": "2024-08-26",
-        "titulo": "Ministro da Secretaria de Relações Institucionais, Alexandre Padilha",
-        "horario": "17h00",
+        "dia": "2024-09-03",
+        "titulo": "ESTE EVENTO Ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome, Wellington Dias",
+        "horario": "02h30",
         "local": "Palácio do Planalto"
     }
 ]
