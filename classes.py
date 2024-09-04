@@ -42,9 +42,10 @@ class Menu:
             dia_hora = datetime.strptime(f"{evento['dia']} {evento['horario']}", '%Y-%m-%d %Hh%M')
             if dia_hora > agora:
                 proximos_eventos.append(evento)
+                break
             
         if proximos_eventos:
-            print(proximos_eventos[0])
+            print(proximos_eventos)
         else:
             print("Eventos já realizados ou não disponíveis.")
 
