@@ -1,25 +1,25 @@
 [
     {
         "dia": "2024-09-02",
-        "titulo": "Reunião",
+        "titulo": "A - Reunião",
         "horario": "09h00",
         "local": "Palácio do Planalto"
     },
     {
         "dia": "2024-09-02",
-        "titulo": "Ministra do Meio Ambiente e Mudança do Clima, Marina Silva",
+        "titulo": "D - Ministra do Meio Ambiente e Mudança do Clima, Marina Silva",
         "horario": "11h00",
         "local": "Palácio do Planalto"
     },
     {
         "dia": "2024-09-08",
-        "titulo": "ESTE EVENTO",
+        "titulo": "B - ESTE EVENTO",
         "horario": "02h30",
         "local": "Palácio do Planalto"
     },
     {
         "dia": "2024-09-08",
-        "titulo": "EVENTO 2 APARECER",
+        "titulo": "C - EVENTO 2 APARECER",
         "horario": "05h30",
         "local": "Palácio do Planalto"
     }
