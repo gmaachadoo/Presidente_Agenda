@@ -43,11 +43,7 @@ while current_date <= end_date:
     site = BeautifulSoup(content, "html.parser")
     commitments = site.findAll("li", class_="item-compromisso-wrapper")
 
-    for (
-        commitment
-    ) in (
-        commitments
-    ):  # vou adicionar esse for dentro de um outro for que vai alterando até a data desejada
+    for commitment in commitments:
         title = commitment.find("h2", class_="compromisso-titulo").text
         time = commitment.find("time", class_="compromisso-inicio").text
         location = commitment.find("div", class_="compromisso-local").text
