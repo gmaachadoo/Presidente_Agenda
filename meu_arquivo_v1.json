@@ -1,122 +1,92 @@
 [
     {
-        "dia": "2024-08-22",
-        "titulo": "Telefonema com o Presidente da República da Finlândia, Alexander Stubb",
+        "dia": "2024-09-25",
+        "titulo": "Sessão de Abertura da Reunião Ministerial do G20",
         "horario": "09h00",
-        "local": "Palácio da Alvorada"
+        "local": "Sede das Nações Unidas, Sala do Conselho Econômico Social – Nova York"
     },
     {
-        "dia": "2024-08-22",
-        "titulo": "Cerimônia do Dia do Soldado",
-        "horario": "10h00",
-        "local": "Quartel-General do Exército"
+        "dia": "2024-09-25",
+        "titulo": "Encontro Bilateral com o Primeiro-Ministro do Reino Unido, Keir Starmer",
+        "horario": "10h40",
+        "local": "Sede das Nações Unidas, sala do Reino Unido"
     },
     {
-        "dia": "2024-08-22",
-        "titulo": "Telefonema com o Primeiro-Ministro dos Países Baixos, Dick Schoof",
-        "horario": "12h30",
-        "local": "Palácio da Alvorada"
+        "dia": "2024-09-25",
+        "titulo": "Encontro bilateral com o Presidente da República da Colômbia, Gustavo Petro",
+        "horario": "11h00",
+        "local": "Sede das Nações Unidas – Nova York"
     },
     {
-        "dia": "2024-08-22",
-        "titulo": "CEO da Telefónica S.A., José María Álvarez-Pallete López, e Presidente do Conselho de Administração da Telefônica Brasil, Eduardo Navarro",
-        "horario": "15h00",
-        "local": "Palácio do Planalto"
-    },
-    {
-        "dia": "2024-08-22",
-        "titulo": "Telefonema com o ex-Presidente dos Estados Unidos Bill Clinton",
-        "horario": "16h00",
-        "local": "Palácio do Planalto"
-    },
-    {
-        "dia": "2024-08-22",
-        "titulo": "Solenidade de Posse dos Ministros Herman Benjamin e Luis Felipe Salomão nos cargos de Presidente e VicePresidente do Superior Tribunal de Justiça (STJ)",
-        "horario": "17h00",
-        "local": "Superior Tribunal de Justiça – STJ"
-    },
-    {
-        "dia": "2024-08-23",
-        "titulo": "Partida para Campinas",
-        "horario": "08h30",
-        "local": "Base Aérea de Brasília"
-    },
-    {
-        "dia": "2024-08-23",
-        "titulo": "Chegada a Campinas",
-        "horario": "09h45",
-        "local": "Aeroporto Internacional de Viracopos – Campinas (SP)"
-    },
-    {
-        "dia": "2024-08-23",
-        "titulo": "Visita às instalações da fábrica de polipeptídeo sintético da EMS em Hortolândia",
-        "horario": "10h30",
-        "local": "EMS – Hortolândia (SP)"
-    },
-    {
-        "dia": "2024-08-23",
-        "titulo": "Cerimônia de inauguração da fábrica da EMS",
+        "dia": "2024-09-25",
+        "titulo": "Encontro bilateral com o Presidente da República da Guatemala, Bernardo Arévalo",
         "horario": "11h30",
-        "local": "Auditório Emiliano Manuel Sanchez – EMS – Hortolândia (SP)"
+        "local": "Sede das Nações Unidas – Nova York"
     },
     {
-        "dia": "2024-08-23",
-        "titulo": "Almoço em homenagem ao Presidente Lula e à senhora Janja Lula da Silva oferecido pela Presidência da EMS",
-        "horario": "12h40",
-        "local": "Sala da Presidência da EMS – Hortolândia (SP)"
+        "dia": "2024-09-25",
+        "titulo": "Encontro com o Presidente da Autoridade Palestina, Mahmoud Abbas",
+        "horario": "12h15",
+        "local": "Sede das Nações Unidas – Nova York"
     },
     {
-        "dia": "2024-08-23",
-        "titulo": "Visita ao laboratório do campus São Paulo do IFSP",
-        "horario": "15h00",
-        "local": "Campus São Paulo do Instituto Federal de São Paulo"
+        "dia": "2024-09-25",
+        "titulo": "Almoço de trabalho sobre o Novo Pacto Financeiro Global",
+        "horario": "12h30",
+        "local": "Sede das Nações Unidas – Nova York"
     },
     {
-        "dia": "2024-08-23",
-        "titulo": "Reunião com gestores do Instituto Federal de São Paulo (IFSP)",
-        "horario": "15h30",
-        "local": "Campus São Paulo do Instituto Federal de São Paulo"
+        "dia": "2024-09-25",
+        "titulo": "Entrevista coletiva à imprensa",
+        "horario": "14h00",
+        "local": "Sede das Nações Unidas, sala de entrevista – Nova York"
     },
     {
-        "dia": "2024-08-25",
+        "dia": "2024-09-25",
         "titulo": "Partida para Brasília",
-        "horario": "12h00",
-        "local": "Aeroporto de Congonhas – São Paulo"
+        "horario": "16h00",
+        "local": "Aeroporto Internacional John F. Kennedy – Nova York"
     },
     {
-        "dia": "2024-08-25",
+        "dia": "2024-09-26",
         "titulo": "Chegada a Brasília",
-        "horario": "13h20",
+        "horario": "02h25",
         "local": "Base Aérea de Brasília"
     },
     {
-        "dia": "2024-08-25",
-        "titulo": "Visita ao Centro Nacional de Prevenção e Combate aos Incêndios Florestais – Prevfogo",
-        "horario": "13h40",
-        "local": "Edifício-sede do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) – Brasília-DF"
-    },
-    {
-        "dia": "2024-08-26",
-        "titulo": "Reunião extraordinária do Conselho Nacional de Política Energética – CNPE",
-        "horario": "09h00",
-        "local": "Ministério de Minas Energia"
-    },
-    {
-        "dia": "2024-08-26",
-        "titulo": "Reunião",
+        "dia": "2024-09-26",
+        "titulo": "Ministro da Casa Civil, Rui Costa, e Secretária-Executiva da Casa Civil, Miriam Belchior",
         "horario": "15h00",
         "local": "Palácio do Planalto"
     },
     {
-        "dia": "2024-08-26",
-        "titulo": "Encontro com atletas dos Jogos Olímpicos de Paris 2024",
+        "dia": "2024-09-26",
+        "titulo": "Governador do Ceará, Elmano de Freitas, e Governador de Mato Grosso do Sul, Eduardo Riedel, para assinaturas no âmbito do Programa BNDES Invest Impacto",
         "horario": "16h00",
         "local": "Palácio do Planalto"
     },
     {
-        "dia": "2024-08-26",
-        "titulo": "Ministro da Secretaria de Relações Institucionais, Alexandre Padilha",
-        "horario": "17h00",
+        "dia": "2024-09-27",
+        "titulo": "Presidenta da Petrobras, Magda Chambriard",
+        "horario": "09h00",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "dia": "2024-09-27",
+        "titulo": "Cerimônia de posse da Ministra de Direitos Humanos e da Cidadania, Macaé Evaristo",
+        "horario": "11h00",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "dia": "2024-09-27",
+        "titulo": "Ministra da Saúde, Nísia Trindade",
+        "horario": "12h00",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "dia": "2024-09-27",
+        "titulo": "Chefe do Gabinete Pessoal da Presidência da Repúblico, Marco Aurélio Marcola, e Chefe de Gabinete Adjunto de Agenda do GPPR, Oswaldo Malatesta",
+        "horario": "15h00",
         "local": "Palácio do Planalto"
     }
 ]
