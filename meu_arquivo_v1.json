@@ -1,26 +1,92 @@
 [
     {
-        "dia": "2024-09-02",
-        "titulo": "Reunião",
+        "dia": "2024-09-25",
+        "titulo": "Sessão de Abertura da Reunião Ministerial do G20",
+        "horario": "09h00",
+        "local": "Sede das Nações Unidas, Sala do Conselho Econômico Social – Nova York"
+    },
+    {
+        "dia": "2024-09-25",
+        "titulo": "Encontro Bilateral com o Primeiro-Ministro do Reino Unido, Keir Starmer",
+        "horario": "10h40",
+        "local": "Sede das Nações Unidas, sala do Reino Unido"
+    },
+    {
+        "dia": "2024-09-25",
+        "titulo": "Encontro bilateral com o Presidente da República da Colômbia, Gustavo Petro",
+        "horario": "11h00",
+        "local": "Sede das Nações Unidas – Nova York"
+    },
+    {
+        "dia": "2024-09-25",
+        "titulo": "Encontro bilateral com o Presidente da República da Guatemala, Bernardo Arévalo",
+        "horario": "11h30",
+        "local": "Sede das Nações Unidas – Nova York"
+    },
+    {
+        "dia": "2024-09-25",
+        "titulo": "Encontro com o Presidente da Autoridade Palestina, Mahmoud Abbas",
+        "horario": "12h15",
+        "local": "Sede das Nações Unidas – Nova York"
+    },
+    {
+        "dia": "2024-09-25",
+        "titulo": "Almoço de trabalho sobre o Novo Pacto Financeiro Global",
+        "horario": "12h30",
+        "local": "Sede das Nações Unidas – Nova York"
+    },
+    {
+        "dia": "2024-09-25",
+        "titulo": "Entrevista coletiva à imprensa",
+        "horario": "14h00",
+        "local": "Sede das Nações Unidas, sala de entrevista – Nova York"
+    },
+    {
+        "dia": "2024-09-25",
+        "titulo": "Partida para Brasília",
+        "horario": "16h00",
+        "local": "Aeroporto Internacional John F. Kennedy – Nova York"
+    },
+    {
+        "dia": "2024-09-26",
+        "titulo": "Chegada a Brasília",
+        "horario": "02h25",
+        "local": "Base Aérea de Brasília"
+    },
+    {
+        "dia": "2024-09-26",
+        "titulo": "Ministro da Casa Civil, Rui Costa, e Secretária-Executiva da Casa Civil, Miriam Belchior",
+        "horario": "15h00",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "dia": "2024-09-26",
+        "titulo": "Governador do Ceará, Elmano de Freitas, e Governador de Mato Grosso do Sul, Eduardo Riedel, para assinaturas no âmbito do Programa BNDES Invest Impacto",
+        "horario": "16h00",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "dia": "2024-09-27",
+        "titulo": "Presidenta da Petrobras, Magda Chambriard",
         "horario": "09h00",
         "local": "Palácio do Planalto"
     },
     {
-        "dia": "2024-09-02",
-        "titulo": "Ministra do Meio Ambiente e Mudança do Clima, Marina Silva",
+        "dia": "2024-09-27",
+        "titulo": "Cerimônia de posse da Ministra de Direitos Humanos e da Cidadania, Macaé Evaristo",
         "horario": "11h00",
         "local": "Palácio do Planalto"
     },
     {
-        "dia": "2024-09-26",
-        "titulo": "ESTE EVENTO",
-        "horario": "02h30",
+        "dia": "2024-09-27",
+        "titulo": "Ministra da Saúde, Nísia Trindade",
+        "horario": "12h00",
         "local": "Palácio do Planalto"
     },
     {
-        "dia": "2024-09-26",
-        "titulo": "EVENTO 2 APARECER",
-        "horario": "05h30",
+        "dia": "2024-09-27",
+        "titulo": "Chefe do Gabinete Pessoal da Presidência da Repúblico, Marco Aurélio Marcola, e Chefe de Gabinete Adjunto de Agenda do GPPR, Oswaldo Malatesta",
+        "horario": "15h00",
         "local": "Palácio do Planalto"
     }
 ]
